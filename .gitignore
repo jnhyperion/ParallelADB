@@ -1,2 +1,5 @@
 .idea/*
-__p
+*/*/*.pyc
+build/*
+dist/*
+*.egg-info/*
