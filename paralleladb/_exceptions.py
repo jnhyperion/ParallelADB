@@ -1,0 +1,2 @@
+class OfflineDevicesError(Exception):
+    pass
